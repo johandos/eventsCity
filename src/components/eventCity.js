@@ -1,3 +1,4 @@
+
 import React from 'react'
 import { Text, View, StyleSheet, Pressable } from 'react-native'
 import { formatearFecha} from '../helpers'
