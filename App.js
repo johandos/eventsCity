@@ -107,7 +107,8 @@ const App = () => {
 const styles = StyleSheet.create({
   container: {
     backgroundColor: '#F3F4F6',
-    flex: 1
+    flex: 1,
+    paddingTop: '10%'
   },
   titulo: {
     textAlign: 'center',
